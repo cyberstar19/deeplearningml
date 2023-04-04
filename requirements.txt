@@ -1,0 +1,7 @@
+numpy 
+pandas
+streamlit
+string
+nltk
+nltk.corpus
+nltk.stem.porter
